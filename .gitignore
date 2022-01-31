@@ -1,0 +1,14 @@
+id_rsa
+*.pyc
+*.joblib
+*.zip
+*.csv
+*.pickle
+.idea
+work/notebooks/.ipynb_checkpoints
+.Trash-0
+.vscode
+work/input/*
+work/notebook/wandb/*
+work/scripts/wandb/*
+authorized_keys
